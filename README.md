@@ -4,7 +4,7 @@ A project that generates genny projects (repositories and infrastructure) based 
 - Github repository template
 - Environment details for infrastructure deployment
 
-This is how the scripts could be used to create a Github repository:
+This is how the scripts could be used to create a Github repository (based on https://github.com/cli/cli):
 
 % cd scripts/
 
